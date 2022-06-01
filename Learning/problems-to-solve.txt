@@ -1,0 +1,7 @@
+1. Getting to Google
+
+2. Keeping track of date
+
+3. Write Data to spreadsheet
+
+4. How to Run Program on a Schedule

@@ -1,0 +1,11 @@
+Goal:
+To access Google Voice, Copy information, organize it, put it into a preadsheet, and email the spreadsheet automatically every week.
+
+How to achieve this goal/Breaking down problems (I think)
+    1. Connect & Verify account information with Google
+    2. Access Google Voice protocols
+    3. From Date and Time, go back 7 days to end of day prior to time of program running
+    4. For each day, record the date and count each event 
+    5. Write date of occurance and type of event to a spreadsheet
+    6. Send spreadsheet via email to paul, office account
+    7. Automatically run program each week at the same time
