@@ -1,0 +1,3 @@
+Change the Unzipper to unzip only the latest takeout folder (use os, glob to find files that contain takeout, then select the most recent created/downloaded one)
+Count by week
+Add report totals to another file and send it in a pretty table.
