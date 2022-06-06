@@ -1,3 +1,8 @@
 Change the Unzipper to unzip only the latest takeout folder (use os, glob to find files that contain takeout, then select the most recent created/downloaded one)
 Count by week
 Add report totals to another file and send it in a pretty table.
+Make it save zip files in relative file instead of absolute
+Filter out .zip files to only select files with 'takeout' in the name
+Save data to a spreadsheet instead of a txt file.
+Have a way to separate areas, perhaps getting input from user on what the name of the branch is
+wxpython, wxwidgets, 

@@ -17,10 +17,6 @@ message_placed_calls = ('Total Number of Placed Calls is: ' + str(number_of_plac
 message_missed_calls =('Total Number of Missed Calls is: ' + str(number_of_missed_calls))
 message_text = ('Total Number of Texts is: ' + str(number_of_texts))
 
-#print(message_placed_calls + ' ')
-#print(message_missed_calls + ' ')
-#print(message_text)
-
 with open('/home/clayton/Documents/Call_Recording/log.txt', 'a') as f:
     f.write(message_placed_calls + message_missed_calls + message_text)
 

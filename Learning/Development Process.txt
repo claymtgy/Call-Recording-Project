@@ -5,3 +5,4 @@ I've created different .py files that will unzip the Google Takeout file (needs 
 COUNT THE TOTAL CALLS, THEN TRACK THAT. THEN AFTER 1 WEEK HAS BEEN DONE, COUNT THE DIFFERENCE BETWEEN THE 2 REPORTS TO GET WEEKLY TOTAL CALLS
 
 I realized if I can just count the number of files in the directory, there's no need to move them. Hence counting them is added, sorting them is removed.
+Created a program that unzips the latest .zip file (not ideal, no filter to make sure it's a takeout file), read unzipped files, save number of placed and missed calls and texts to a .txt file and delete the unzipped files.
