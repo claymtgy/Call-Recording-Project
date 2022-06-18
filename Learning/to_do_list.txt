@@ -1,6 +1,5 @@
 Count by week
 Count by day
-Make it save zip files in relative file instead of absolute
 Save data to a spreadsheet instead of a txt file.
 Style tkinter
-Area Selector Dropdown Menu
+Check if the data written is the same as last week
