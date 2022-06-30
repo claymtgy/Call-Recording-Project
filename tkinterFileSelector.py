@@ -29,6 +29,7 @@ OPTIONS = [
 ] #etc
 
 master = Tk()
+master.geometry('300x150')
 
 variable = StringVar(master)
 variable.set(OPTIONS[0]) # default value
